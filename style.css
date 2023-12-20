@@ -1,0 +1,266 @@
+body
+{
+    background: radial-gradient(128.47% 70.71% at 50% 50%, #E3E0D9 24.58%, #F5DEB3 73.02%);
+    background-size:contain;
+    font-family: 'Island Moments';font-size: 22px;
+ 
+}
+#logo
+{
+    height: max-content;
+}
+.logo
+{
+    display: flex;
+    align-items:center;
+    font-size: 35px;
+}
+.search
+{
+
+
+   text-align: center;
+   height: 50px;
+   font-size: 45px;
+   /* background-color: #E3E0D9;
+   background-size:cover; */
+   padding-left: 25%;  
+   padding-right: 25%;
+ 
+}
+.myImage
+{
+    visibility: visible;
+}
+
+
+.myImage:hover
+{  
+    scale: 120.2%;
+    opacity: 85%;
+}
+#img01:hover
+{
+    scale: 120.2%;
+    opacity: 85%;
+}
+#img02:hover
+{
+    scale: 120.2%;
+    opacity: 85%;
+}
+#img03:hover
+{
+    scale: 120.2%;
+    opacity: 85%;
+}
+#img04:hover
+{
+    scale: 120.2%;
+    opacity: 85%;
+}
+#img05:hover
+{
+    scale: 120.2%;
+    opacity: 85%;
+}
+#img06:hover
+{
+    scale: 120.2%;
+    opacity: 85%;
+}
+.surprise
+{
+    font-size: 40px;
+}
+#biryani_savour
+{
+    height: 420px;
+    width: 320px;
+    text-align: center;
+   
+}
+#ok_button
+{
+    font-family:'Island Moments';font-size: 32px;
+}
+p{
+    font-size: 33px;
+    font-weight: 200;
+}
+/* lamb biryani wali button */
+.lamb_biryani      
+{
+    font-family: 'Island Moments';font-size: 42px;
+    height: max-content;
+    background-color: #E3E0D9;
+    border-width: 0px;
+    cursor: pointer;
+    outline: none;
+    border-color: #E3E0D9;
+    transition: transform 0.2s;
+   
+}
+#lamb_biryani:active
+{
+    transform: scale(0.95);
+}
+.search_button:hover
+{
+    font-size: 50px;
+    color: black;
+    background-color: bisque;
+}
+#lamb_biryani:hover
+{
+    color: darkred;
+    font-size: 55px;
+}
+.biryani
+{
+   text-align: center;
+}
+.indian
+{
+    font-size: 40px;
+}
+img
+{
+    height: 320px;
+    width: 300px;
+}
+#biryani_savour
+{
+    border: darkred 3px solid;
+    height: 320px;
+    width: 300px;
+    border-radius: 3%;
+}
+.lamb
+{
+    text-align: center;
+}
+.search_button
+{
+    height: 100%;
+    width: 45%;
+    background-color:#E3E0D9 ;
+    border-radius: 20%;
+    font-family: 'Island Moments';font-size: 42px;
+    font-style: bold;
+    color: darkred;
+}
+.img_1
+{
+    border: darkred 3px solid;
+    border-radius: 3%;
+    text-align: center;
+    padding-top: 0%;
+    height: 320px;
+    width: 300px;
+}
+.img_2
+{
+    border: darkred 3px solid;
+    height: 320px;
+    width: 300px;
+    border-radius: 3%;
+}
+.img_3
+{
+    border: darkred 3px solid;
+    height: 320px;
+    width: 300px;
+    border-radius: 3%;
+}
+.img_4
+{
+    border: darkred 3px solid;
+    height: 320px;
+    width: 300px;
+    border-radius: 3%;
+}
+.img_5
+{
+    border: darkred 3px solid;
+    height: 320px;
+    width: 300px;
+    border-radius: 3%;
+}
+.img_6
+{
+    border: darkred 3px solid;
+    height: 320px;
+    width: 300px;
+    border-radius: 3%;
+}
+.indian_cuisine_1
+{
+    display:flex ;
+    align-items: center;
+    justify-content: space-evenly;
+    height: fit-content;
+   /* padding-top: 40%; */
+    margin-top: 3%;
+
+
+}
+#ok_button
+{
+    width: 100px;
+    font-weight: 400;
+    background-color: brown;
+    color: white;
+    border-radius: 10%;
+}
+.indian_cuisine_2
+{
+    display:flex ;
+    align-items: center;
+    justify-content: space-evenly;
+    height: fit-content;
+   
+}
+.ok_button
+{
+    font-size: 40px;
+    height: 200px;
+    width: 300px;
+}
+ .popup
+{
+    width: 400px;
+   
+    border-radius: 6%;
+    position: absolute;
+     top:0;
+    left: 50%;
+    transform: translate(-50%,-50%)scale(10%);
+    text-align: center;
+     visibility: hidden;
+}
+.open-popup
+{  
+   
+    visibility: visible;
+    /* top: 50%;
+    bottom: 50%;
+    height: 500px;
+    width: 400px; */
+    /* position: relative; */
+    /* margin-top: 1%; */
+   
+    color: black;
+   font-size: 400px;
+    transform: translate(-50% -50%)scale(10%);
+    width: 1200px;
+    height: 1600px;
+    top: 50%;
+    margin-left: 20%;
+    text-align: center;
+   
+}
+
+
+
+
